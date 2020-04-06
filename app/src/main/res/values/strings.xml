@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Application</string>
+    <string name="textview">TextView</string>
+    <string name="full_name_oluoma_martins_uche">Full Name: Oluoma Martins Uche</string>
+    <string name="slack_id_olums83">Slack id: olums83</string>
+    <string name="email_address_evergreenmart101_gmail_com">Email address: evergreenmart101@gmail.com</string>
+    <string name="image">image</string>
+</resources>
